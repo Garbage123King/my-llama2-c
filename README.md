@@ -2,6 +2,14 @@ pre:
 ```
 wget https://huggingface.co/karpathy/tinyllamas/resolve/main/stories15M.bin
 ```
+
+# MY RUN
+```
+gcc main.c -o main -lm
+./main
+```
+
+# ORIGINAL RUN
 run:
 ```
 ./make.sh
